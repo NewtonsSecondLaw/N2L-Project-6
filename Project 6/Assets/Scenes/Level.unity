@@ -261,6 +261,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Basic Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 4767108218111199630, guid: 17c43ef0bdcf857439c24abe6fa2fe35, type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -274,9 +278,19 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2184129492689280292, guid: 0757ed63026dc464786fe31a1c592c03, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"activeColor","value":{"r":0.1641766,"g":0.8716981,"b":0.01151295,"a":1.0,"$type":"UnityEngine.Color"},"typeHandle":{"Identification":"UnityEngine.Color,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"spawnPoint","value":null,"typeHandle":{"Identification":"UnityEngine.Transform,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 3807915663063698414, guid: 0757ed63026dc464786fe31a1c592c03, type: 3}
       propertyPath: m_Name
       value: Checkpoint Platform
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807915663063698414, guid: 0757ed63026dc464786fe31a1c592c03, type: 3}
+      propertyPath: m_Layer
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5900580464613754306, guid: 0757ed63026dc464786fe31a1c592c03, type: 3}
       propertyPath: m_LocalScale.x
@@ -389,11 +403,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5638543534260072604, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 66.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5638543534260072604, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.21
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8038482411290253578, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_Follow
