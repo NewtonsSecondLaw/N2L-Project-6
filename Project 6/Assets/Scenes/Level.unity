@@ -8822,11 +8822,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 492183549949167805, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -38.64754
+      value: -40.45176
       objectReference: {fileID: 0}
     - target: {fileID: 492183549949167805, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -17.389992
+      value: -17.38999
       objectReference: {fileID: 0}
     - target: {fileID: 492183549949167805, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8866,15 +8866,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2728592084379501429, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: orthographic size
-      value: 8.35
+      value: 10.1875
       objectReference: {fileID: 0}
     - target: {fileID: 5638543534260072604, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10.182461
+      value: -8.3782425
       objectReference: {fileID: 0}
     - target: {fileID: 5638543534260072604, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0000076293945
+      value: -0.000009536743
       objectReference: {fileID: 0}
     - target: {fileID: 6786033731260611470, guid: d4fa9bc9321d14141b93941e092aaf77, type: 3}
       propertyPath: m_BiasY
@@ -8929,7 +8929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_ComponentVersion: 1
-  m_AssetsPPU: 50
+  m_AssetsPPU: 35
   m_RefResolutionX: 320
   m_RefResolutionY: 180
   m_CropFrame: 0
@@ -11785,8 +11785,8 @@ Transform:
   m_GameObject: {fileID: 2049078740}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -20.42, y: -0.85, z: 0}
-  m_LocalScale: {x: 45, y: 45, z: 45}
+  m_LocalPosition: {x: -20.22, y: -0.85, z: 0}
+  m_LocalScale: {x: 50.000004, y: 50.000004, z: 50.000004}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
